@@ -9,6 +9,9 @@ for i in r['idr']:
     print(i)
 print('----------------')
 print(r['idr']['name'])
+print('----------------')
+print(r['idr']['rate'])
+
 
 
 
